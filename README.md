@@ -123,13 +123,24 @@ muscle-zone-assignment-2/
 ├── index.html
 ├── membership.html
 ├── contact.html
+├── README.md
 ├── css/
 │   └── style.css
 ├── js/
 │   └── script.js
-├── images/
-│   └── add-your-screenshots-here
-└── README.md
+└── images/
+    ├── revised-home-wireframe.svg
+    ├── revised-membership-wireframe.svg
+    ├── revised-contact-wireframe.svg
+    ├── homepage-screenshot.png
+    ├── membership-screenshot.png
+    ├── contact-screenshot.png
+    ├── html-validation-index.png
+    ├── html-validation-membership.png
+    ├── html-validation-contact.png
+    ├── css-validation.png
+    └── lighthouse-results.png
+```
 ```
 
 ## Pages included
@@ -218,7 +229,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 | Test area | Test carried out | Expected result | Actual result | Pass/Fail |
 |---|---|---|---|---|
-| Navigation | Click Home, Memberships and Contact links | Correct page opens | Correct page opens as expecetd | Pass |
+| Navigation | Click Home, Memberships and Contact links | Correct page opens | Correct page opens as expeceted | Pass |
 | Mobile menu | Resize browser and click menu button | Navigation opens and closes | Works as intended | Pass |
 | Membership modal | Click membership plan button | Pop-up opens with selected plan | Works as intended | Pass |
 | Modal close | Click close button or press Escape | Pop-up closes | Works as intended | Pass |
@@ -237,7 +248,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the homepage, used the navigation to open the Memberships page, and checked whether all membership plans, prices and benefits were visible.
 
-**Result:** Results were as expected.
+**Result:** The membership prices and benefits were clearly visible on the Memberships page.
 
 ### User story 2
 
@@ -245,7 +256,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the homepage and tested the class filter buttons to check whether users can view different types of classes.
 
-**Result:** User found their desired classes.
+**Result:** The class filter worked correctly and allowed users to view different class categories.
 
 ### User story 3
 
@@ -253,7 +264,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the Contact page and checked that opening hours, location and the enquiry form were clearly visible.
 
-**Result:** They found the necessary information they were looking for.
+**Result:** Opening hours, location details and the enquiry form were clearly visible on the Contact page.
 
 ## Bugs found and fixed
 
@@ -265,7 +276,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 ## Unresolved bugs
 
-At the time of writing, no major unresolved bugs have been identified. This section should be updated if any issues are found during final testing.
+No major unresolved bugs were found during final testing.
 
 ## Automated testing
 
@@ -311,7 +322,7 @@ Although the Lighthouse scores were high, manual testing was still carried out b
 
 Git and GitHub were used to track the project development. I made regular commits throughout the process to show how the website was built and improved over time.
 
-Example commit history:
+The commit history included:
 
 1. `Initial project setup with website structure`
 2. `Build homepage with gym overview and navigation`
@@ -328,7 +339,7 @@ Example commit history:
 
 # Deployment
 
-TThe website was deployed using GitHub Pages so that it can be accessed online and tested outside of the local development folder.
+The website was deployed using GitHub Pages so that it can be accessed online and tested outside of the local development folder.
 
 The project files were uploaded to the GitHub repository, and the `main` branch was selected as the deployment source in the GitHub Pages settings.
 
