@@ -141,7 +141,6 @@ muscle-zone-assignment-2/
     ├── css-validation.png
     └── lighthouse-results.png
 ```
-```
 
 ## Pages included
 
@@ -229,16 +228,16 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 | Test area | Test carried out | Expected result | Actual result | Pass/Fail |
 |---|---|---|---|---|
-| Navigation | Click Home, Memberships and Contact links | Correct page opens | Correct page opens as expeceted | Pass |
-| Mobile menu | Resize browser and click menu button | Navigation opens and closes | Works as intended | Pass |
-| Membership modal | Click membership plan button | Pop-up opens with selected plan | Works as intended | Pass |
-| Modal close | Click close button or press Escape | Pop-up closes | Works as intended | Pass |
-| Class filter | Click All, Strength, Cardio and Wellbeing | Correct class cards are displayed | Works as intended | Pass |
-| Contact form empty | Submit empty form | Error message appears | Works as intended | Pass |
-| Contact form valid | Complete form and submit | Success message appears | Works as intended | Pass |
-| External links | Click external links | Links open in a new tab | Works as intended | Pass |
-| Responsive design | Test on desktop, tablet and mobile widths | Layout adapts without broken content | Works as intended | Pass |
-| Keyboard navigation | Use Tab key through the website | Focus indicator appears and content is reachable | Works as intended | Pass |
+| Navigation | Clicked Home, Memberships and Contact links | Correct page opens | Correct page opened as expected | Pass |
+| Mobile menu | Resized browser and clicked menu button | Navigation opens and closes | Menu opened and closed correctly | Pass |
+| Membership modal | Clicked each membership plan button | Pop-up opens with selected plan | Pop-up opened with the correct selected plan | Pass |
+| Modal close | Clicked close button and pressed Escape | Pop-up closes | Pop-up closed correctly | Pass |
+| Class filter | Clicked All, Strength, Cardio and Wellbeing | Correct class cards are displayed | Correct class cards were displayed | Pass |
+| Contact form empty | Submitted empty form | Error message appears | Error message appeared | Pass |
+| Contact form valid | Completed form and submitted it | Success message appears | Success message appeared | Pass |
+| External links | Clicked external links | Links open in a new tab | External links opened in a new tab | Pass |
+| Responsive design | Tested desktop, tablet and mobile widths | Layout adapts without broken content | Layout adapted correctly | Pass |
+| Keyboard navigation | Used Tab key through the website | Focus indicator appears and content is reachable | Keyboard navigation worked correctly | Pass |
 
 ## User story testing
 
