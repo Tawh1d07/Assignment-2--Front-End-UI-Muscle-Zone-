@@ -8,11 +8,11 @@ The purpose of this Assignment 2 project is to turn the original wireframe idea 
 
 ## Live website
 
-GitHub Pages link: **Add your deployed website link here**
+GitHub Pages link: https://tawh1d07.github.io/Assignment-2--Front-End-UI-Muscle-Zone-/
 
 ## Repository link
 
-GitHub repository link: **Add your GitHub repository link here**
+GitHub repository link: https://github.com/Tawh1d07/Assignment-2--Front-End-UI-Muscle-Zone-
 
 ---
 
@@ -89,7 +89,7 @@ The Assignment 1 competitor analysis identified that hidden pricing can frustrat
 
 ### Revised contact page
 
-![Revised contact wireframe](images/contact-wireframe.svg)
+![Revised contact wireframe](images/revised-contact-wireframe.svg)
 
 **Changes made:**
 
