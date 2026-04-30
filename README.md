@@ -8,7 +8,7 @@ The purpose of this Assignment 2 project is to turn the original wireframe idea 
 
 ## Live website
 
-GitHub Pages link: https://tawh1d07.github.io/Assignment-2--Front-End-UI-Muscle-Zone-/
+GitHub Pages link: 
 
 ## Repository link
 
