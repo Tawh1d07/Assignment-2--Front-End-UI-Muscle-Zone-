@@ -308,32 +308,30 @@ Add screenshot here:
 
 # Version control
 
-Git and GitHub were used to track the project development. Meaningful commits should be made throughout the process.
+Git and GitHub were used to track the project development. I made regular commits throughout the process to show how the website was built and improved over time.
 
-Suggested commit history:
+Example commit history:
 
-1. `Initial project setup with HTML structure`
-2. `Add responsive CSS layout and navigation`
-3. `Add membership page and pricing cards`
-4. `Add contact form and opening hours section`
-5. `Add JavaScript interactions`
-6. `Update README with design and testing documentation`
-7. `Fix validation issues and finalise deployment`
+1. `Initial project setup with website structure`
+2. `Build homepage with gym overview and navigation`
+3. `Add membership page with plans and class information`
+4. `Add contact page with enquiry form`
+5. `Add responsive styling and accessibility improvements`
+6. `Add interactive features and form feedback`
+7. `Add revised wireframes and website images`
+8. `Add deployed website link to README`
+9. `Add validation and Lighthouse testing evidence`
+10. `Finalise assignment submission`
 
 ---
 
 # Deployment
 
-The project should be deployed using GitHub Pages.
+TThe website was deployed using GitHub Pages so that it can be accessed online and tested outside of the local development folder.
 
-Steps:
+The project files were uploaded to the GitHub repository, and the `main` branch was selected as the deployment source in the GitHub Pages settings.
 
-1. Upload the project files to a GitHub repository.
-2. Go to the repository settings.
-3. Open the Pages section.
-4. Choose the main branch as the deployment source.
-5. Save the settings.
-6. Copy the live website link into this README.
+Live website link: https://tawhid07.github.io/Assignment-2--Front-End-UI-Muscle-Zone-/
 
 ---
 
