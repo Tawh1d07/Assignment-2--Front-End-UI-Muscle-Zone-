@@ -1,0 +1,11 @@
+Submission checklist:
+1. Upload all files to GitHub.
+2. Make several commits with meaningful messages.
+3. Deploy using GitHub Pages.
+4. Add your live link to README.md.
+5. Add screenshots of your pages to the images folder.
+6. Run W3C HTML Validator on all HTML pages.
+7. Run W3C CSS Validator on css/style.css.
+8. Run Google Lighthouse on the deployed website.
+9. Add validation and Lighthouse screenshots to README.md.
+10. Submit the GitHub repository link and deployed website link.

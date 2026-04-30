@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Muscle Zone Gym - accessible gym website prototype for memberships, classes and contact information.">
+  <title>Muscle Zone Gym | Home</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Main navigation">
+      <a class="logo" href="index.html" aria-label="Muscle Zone Gym home">Muscle Zone</a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false">
+        ☰
+      </button>
+      <ul class="nav-links" id="primary-navigation">
+        <li><a href="index.html" aria-current="page">Home</a></li>
+        <li><a href="membership.html">Memberships</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="hero section-padding">
+      <div class="hero-content">
+        <p class="eyebrow">Strength • Fitness • Community</p>
+        <h1>Train with confidence at Muscle Zone Gym</h1>
+        <p>
+          Muscle Zone Gym helps new and existing members find clear information about memberships,
+          facilities, classes and opening hours without needing to search through social media posts.
+        </p>
+        <div class="button-group">
+          <a class="btn btn-primary" href="membership.html">View memberships</a>
+          <a class="btn btn-secondary" href="#services">Explore facilities</a>
+        </div>
+      </div>
+      <div class="hero-card" aria-label="Gym opening summary">
+        <h2>Today at Muscle Zone</h2>
+        <p><strong>Open:</strong> 06:00 - 22:00</p>
+        <p><strong>Popular session:</strong> Evening strength training</p>
+        <p><strong>Support:</strong> Personal trainers available</p>
+      </div>
+    </section>
+
+    <section class="section-padding intro-grid" id="services">
+      <div>
+        <p class="eyebrow">Facilities</p>
+        <h2>Everything needed for a focused workout</h2>
+        <p>
+          The website is designed for first-time visitors, returning visitors and existing members.
+          Information is grouped clearly so users can compare options and make quick decisions.
+        </p>
+      </div>
+      <div class="cards-grid">
+        <article class="info-card">
+          <h3>Strength area</h3>
+          <p>Free weights, resistance machines and benches for progressive strength training.</p>
+        </article>
+        <article class="info-card">
+          <h3>Cardio zone</h3>
+          <p>Treadmills, bikes and cross trainers for warm-ups, endurance and fat-loss sessions.</p>
+        </article>
+        <article class="info-card">
+          <h3>Personal training</h3>
+          <p>One-to-one support for members who want a structured training plan and guidance.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-padding dark-section">
+      <div class="section-heading">
+        <p class="eyebrow">Classes</p>
+        <h2>Weekly class highlights</h2>
+        <p>Use the buttons to filter the class list. This gives users control over what they want to view.</p>
+      </div>
+
+      <div class="filter-controls" aria-label="Class filters">
+        <button class="filter-btn active" type="button" data-filter="all">All</button>
+        <button class="filter-btn" type="button" data-filter="strength">Strength</button>
+        <button class="filter-btn" type="button" data-filter="cardio">Cardio</button>
+        <button class="filter-btn" type="button" data-filter="wellbeing">Wellbeing</button>
+      </div>
+
+      <div class="class-list" aria-live="polite">
+        <article class="class-card" data-category="strength">
+          <h3>Strength Foundations</h3>
+          <p>Beginner-friendly coaching on safe lifting, form and gym confidence.</p>
+        </article>
+        <article class="class-card" data-category="cardio">
+          <h3>HIIT Circuit</h3>
+          <p>Short, energetic sessions using bodyweight, bikes and battle ropes.</p>
+        </article>
+        <article class="class-card" data-category="wellbeing">
+          <h3>Mobility Reset</h3>
+          <p>Stretching and mobility work to support recovery and reduce stiffness.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section-padding cta-section">
+      <h2>Ready to compare plans?</h2>
+      <p>Membership prices are placed on a separate page to make them easier to find for new visitors.</p>
+      <a class="btn btn-primary" href="membership.html">Compare membership plans</a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Muscle Zone Gym. Prototype website for coursework.</p>
+    <p><a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank" rel="noopener noreferrer">Accessibility guidance</a></p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

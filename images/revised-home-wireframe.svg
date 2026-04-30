@@ -1,0 +1,23 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Revised homepage wireframe">
+  <rect width="1000" height="700" fill="#f7f8fb"/>
+  <rect x="50" y="30" width="900" height="60" fill="#ffffff" stroke="#222"/>
+  <text x="75" y="68" font-family="Arial" font-size="22" font-weight="bold">Muscle Zone</text>
+  <text x="650" y="68" font-family="Arial" font-size="18">Home | Memberships | Contact</text>
+  <rect x="50" y="120" width="560" height="210" fill="#ffffff" stroke="#222"/>
+  <text x="75" y="165" font-family="Arial" font-size="30" font-weight="bold">Hero intro + CTA buttons</text>
+  <text x="75" y="205" font-family="Arial" font-size="18">Clear summary of gym purpose</text>
+  <rect x="75" y="245" width="150" height="45" fill="#7a1fd1"/>
+  <text x="96" y="274" font-family="Arial" font-size="16" fill="#fff">View plans</text>
+  <rect x="640" y="120" width="310" height="210" fill="#ffffff" stroke="#222"/>
+  <text x="665" y="165" font-family="Arial" font-size="22" font-weight="bold">Opening hours card</text>
+  <text x="665" y="205" font-family="Arial" font-size="16">Quick info for existing members</text>
+  <rect x="50" y="370" width="270" height="130" fill="#ffffff" stroke="#222"/>
+  <rect x="365" y="370" width="270" height="130" fill="#ffffff" stroke="#222"/>
+  <rect x="680" y="370" width="270" height="130" fill="#ffffff" stroke="#222"/>
+  <text x="95" y="435" font-family="Arial" font-size="18" font-weight="bold">Strength area</text>
+  <text x="410" y="435" font-family="Arial" font-size="18" font-weight="bold">Cardio zone</text>
+  <text x="720" y="435" font-family="Arial" font-size="18" font-weight="bold">Personal training</text>
+  <rect x="50" y="540" width="900" height="110" fill="#12141b"/>
+  <text x="80" y="590" font-family="Arial" font-size="22" fill="#fff" font-weight="bold">Interactive class filter section</text>
+  <text x="80" y="620" font-family="Arial" font-size="16" fill="#fff">User can filter classes by category</text>
+</svg>

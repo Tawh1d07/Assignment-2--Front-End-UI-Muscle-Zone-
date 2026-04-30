@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Compare Muscle Zone Gym membership plans and choose the best option.">
+  <title>Muscle Zone Gym | Memberships</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header class="site-header">
+    <nav class="navbar" aria-label="Main navigation">
+      <a class="logo" href="index.html" aria-label="Muscle Zone Gym home">Muscle Zone</a>
+      <button class="menu-toggle" type="button" aria-label="Open navigation menu" aria-expanded="false">☰</button>
+      <ul class="nav-links" id="primary-navigation">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="membership.html" aria-current="page">Memberships</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <section class="page-hero section-padding">
+      <p class="eyebrow">Memberships</p>
+      <h1>Simple plans with clear pricing</h1>
+      <p>
+        The A1 user research showed that new visitors need quick access to membership prices,
+        benefits and facilities. This page places that information in clear comparison cards.
+      </p>
+    </section>
+
+    <section class="section-padding pricing-grid" aria-label="Membership plans">
+      <article class="price-card">
+        <h2>Student</h2>
+        <p class="price">£19.99 <span>/ month</span></p>
+        <ul>
+          <li>Gym floor access</li>
+          <li>Cardio and strength equipment</li>
+          <li>Off-peak training hours</li>
+        </ul>
+        <button class="btn btn-secondary open-plan" type="button" data-plan="Student Membership">Choose student</button>
+      </article>
+
+      <article class="price-card featured">
+        <p class="popular-label">Most popular</p>
+        <h2>Standard</h2>
+        <p class="price">£29.99 <span>/ month</span></p>
+        <ul>
+          <li>Full gym access</li>
+          <li>Group classes included</li>
+          <li>Free fitness induction</li>
+        </ul>
+        <button class="btn btn-primary open-plan" type="button" data-plan="Standard Membership">Choose standard</button>
+      </article>
+
+      <article class="price-card">
+        <h2>Premium</h2>
+        <p class="price">£44.99 <span>/ month</span></p>
+        <ul>
+          <li>All standard benefits</li>
+          <li>Monthly personal training session</li>
+          <li>Priority class booking</li>
+        </ul>
+        <button class="btn btn-secondary open-plan" type="button" data-plan="Premium Membership">Choose premium</button>
+      </article>
+    </section>
+
+    <section class="section-padding two-column">
+      <div>
+        <h2>Why this page was revised</h2>
+        <p>
+          In the revised design, pricing is no longer hidden inside a long homepage. The comparison
+          layout supports first-time visitors who want to understand costs quickly before joining.
+        </p>
+      </div>
+      <div class="info-card">
+        <h3>Member benefits</h3>
+        <p>Every plan includes clean changing facilities, friendly staff support and access to gym updates.</p>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal" id="plan-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-content">
+      <button class="modal-close" type="button" aria-label="Close membership information">&times;</button>
+      <h2 id="modal-title">Membership selected</h2>
+      <p id="modal-text">You selected a membership plan.</p>
+      <a class="btn btn-primary" href="contact.html#join-form">Continue to enquiry form</a>
+    </div>
+  </div>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Muscle Zone Gym. Prototype website for coursework.</p>
+    <p><a href="https://validator.w3.org/" target="_blank" rel="noopener noreferrer">W3C HTML Validator</a></p>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Revised contact wireframe">
+  <rect width="1000" height="700" fill="#f7f8fb"/>
+  <rect x="50" y="30" width="900" height="60" fill="#ffffff" stroke="#222"/>
+  <text x="75" y="68" font-family="Arial" font-size="22" font-weight="bold">Muscle Zone</text>
+  <text x="650" y="68" font-family="Arial" font-size="18">Home | Memberships | Contact</text>
+  <text x="270" y="150" font-family="Arial" font-size="34" font-weight="bold">Contact and opening hours</text>
+  <rect x="70" y="210" width="370" height="380" fill="#ffffff" stroke="#222"/>
+  <text x="105" y="260" font-family="Arial" font-size="24" font-weight="bold">Opening hours</text>
+  <text x="105" y="315" font-family="Arial" font-size="18">Mon-Fri: 06:00 - 22:00</text>
+  <text x="105" y="355" font-family="Arial" font-size="18">Saturday: 08:00 - 20:00</text>
+  <text x="105" y="395" font-family="Arial" font-size="18">Sunday: 08:00 - 18:00</text>
+  <text x="105" y="470" font-family="Arial" font-size="24" font-weight="bold">Location</text>
+  <text x="105" y="515" font-family="Arial" font-size="18">Map link opens in new tab</text>
+  <rect x="500" y="210" width="430" height="380" fill="#ffffff" stroke="#222"/>
+  <text x="535" y="260" font-family="Arial" font-size="24" font-weight="bold">Membership enquiry form</text>
+  <rect x="535" y="300" width="330" height="40" fill="#eeeeee" stroke="#777"/>
+  <rect x="535" y="365" width="330" height="40" fill="#eeeeee" stroke="#777"/>
+  <rect x="535" y="430" width="330" height="80" fill="#eeeeee" stroke="#777"/>
+  <rect x="535" y="535" width="160" height="45" fill="#7a1fd1"/>
+  <text x="570" y="563" font-family="Arial" font-size="16" fill="#fff">Submit</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1000" height="700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Revised membership wireframe">
+  <rect width="1000" height="700" fill="#f7f8fb"/>
+  <rect x="50" y="30" width="900" height="60" fill="#ffffff" stroke="#222"/>
+  <text x="75" y="68" font-family="Arial" font-size="22" font-weight="bold">Muscle Zone</text>
+  <text x="650" y="68" font-family="Arial" font-size="18">Home | Memberships | Contact</text>
+  <text x="250" y="150" font-family="Arial" font-size="34" font-weight="bold">Simple plans with clear pricing</text>
+  <rect x="70" y="210" width="260" height="310" fill="#ffffff" stroke="#222"/>
+  <rect x="370" y="190" width="260" height="350" fill="#ffffff" stroke="#7a1fd1" stroke-width="4"/>
+  <rect x="670" y="210" width="260" height="310" fill="#ffffff" stroke="#222"/>
+  <text x="150" y="270" font-family="Arial" font-size="24" font-weight="bold">Student</text>
+  <text x="450" y="250" font-family="Arial" font-size="24" font-weight="bold">Standard</text>
+  <text x="750" y="270" font-family="Arial" font-size="24" font-weight="bold">Premium</text>
+  <text x="130" y="320" font-family="Arial" font-size="22">£19.99</text>
+  <text x="430" y="300" font-family="Arial" font-size="22">£29.99</text>
+  <text x="730" y="320" font-family="Arial" font-size="22">£44.99</text>
+  <rect x="115" y="440" width="160" height="45" fill="#7a1fd1"/>
+  <rect x="415" y="440" width="160" height="45" fill="#7a1fd1"/>
+  <rect x="715" y="440" width="160" height="45" fill="#7a1fd1"/>
+  <text x="145" y="468" font-family="Arial" font-size="16" fill="#fff">Choose</text>
+  <text x="445" y="468" font-family="Arial" font-size="16" fill="#fff">Choose</text>
+  <text x="745" y="468" font-family="Arial" font-size="16" fill="#fff">Choose</text>
+  <text x="95" y="590" font-family="Arial" font-size="18">Pricing cards make comparison easier and reduce hidden information.</text>
+</svg>
