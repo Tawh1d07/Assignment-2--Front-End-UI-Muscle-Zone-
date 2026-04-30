@@ -89,7 +89,7 @@ The Assignment 1 competitor analysis identified that hidden pricing can frustrat
 
 ### Revised contact page
 
-![Revised contact wireframe](images/revised-contact-wireframe.svg)
+![Revised contact wireframe](images/contact-wireframe.svg)
 
 **Changes made:**
 
