@@ -183,7 +183,6 @@ No Bootstrap or external framework has been used in this version.
 
 ## Screenshots of final product
 
-Add screenshots here after you run the website:
 
 ### Home page screenshot
 
@@ -331,7 +330,7 @@ TThe website was deployed using GitHub Pages so that it can be accessed online a
 
 The project files were uploaded to the GitHub repository, and the `main` branch was selected as the deployment source in the GitHub Pages settings.
 
-Live website link: https://tawhid07.github.io/Assignment-2--Front-End-UI-Muscle-Zone-/
+Live website link: https://tawh1d07.github.io/Assignment-2--Front-End-UI-Muscle-Zone-/
 
 ---
 
