@@ -219,16 +219,16 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 | Test area | Test carried out | Expected result | Actual result | Pass/Fail |
 |---|---|---|---|---|
-| Navigation | Click Home, Memberships and Contact links | Correct page opens | Add result here | Add pass/fail |
-| Mobile menu | Resize browser and click menu button | Navigation opens and closes | Add result here | Add pass/fail |
-| Membership modal | Click membership plan button | Pop-up opens with selected plan | Add result here | Add pass/fail |
-| Modal close | Click close button or press Escape | Pop-up closes | Add result here | Add pass/fail |
-| Class filter | Click All, Strength, Cardio and Wellbeing | Correct class cards are displayed | Add result here | Add pass/fail |
-| Contact form empty | Submit empty form | Error message appears | Add result here | Add pass/fail |
-| Contact form valid | Complete form and submit | Success message appears | Add result here | Add pass/fail |
-| External links | Click external links | Links open in a new tab | Add result here | Add pass/fail |
-| Responsive design | Test on desktop, tablet and mobile widths | Layout adapts without broken content | Add result here | Add pass/fail |
-| Keyboard navigation | Use Tab key through the website | Focus indicator appears and content is reachable | Add result here | Add pass/fail |
+| Navigation | Click Home, Memberships and Contact links | Correct page opens | Correct page opens as expecetd | Pass |
+| Mobile menu | Resize browser and click menu button | Navigation opens and closes | Works as intended | Pass |
+| Membership modal | Click membership plan button | Pop-up opens with selected plan | Works as intended | Pass |
+| Modal close | Click close button or press Escape | Pop-up closes | Works as intended | Pass |
+| Class filter | Click All, Strength, Cardio and Wellbeing | Correct class cards are displayed | Works as intended | Pass |
+| Contact form empty | Submit empty form | Error message appears | Works as intended | Pass |
+| Contact form valid | Complete form and submit | Success message appears | Works as intended | Pass |
+| External links | Click external links | Links open in a new tab | Works as intended | Pass |
+| Responsive design | Test on desktop, tablet and mobile widths | Layout adapts without broken content | Works as intended | Pass |
+| Keyboard navigation | Use Tab key through the website | Focus indicator appears and content is reachable | Works as intended | Pass |
 
 ## User story testing
 
@@ -238,7 +238,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the homepage, used the navigation to open the Memberships page, and checked whether all membership plans, prices and benefits were visible.
 
-**Result:** Add your result here.
+**Result:** Results were as expected.
 
 ### User story 2
 
@@ -246,7 +246,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the homepage and tested the class filter buttons to check whether users can view different types of classes.
 
-**Result:** Add your result here.
+**Result:** User found their desired classes.
 
 ### User story 3
 
@@ -254,7 +254,7 @@ Overall, the final prototype meets the main assignment requirements by providing
 
 **Manual test:** I opened the Contact page and checked that opening hours, location and the enquiry form were clearly visible.
 
-**Result:** Add your result here.
+**Result:** They found the necessary information they were looking for.
 
 ## Bugs found and fixed
 
