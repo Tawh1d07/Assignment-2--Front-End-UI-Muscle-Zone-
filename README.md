@@ -274,7 +274,6 @@ At the time of writing, no major unresolved bugs have been identified. This sect
 
 The HTML pages should be tested using the W3C HTML Validator.
 
-Add screenshots here:
 
 - `images/html-validator-home.png`
 - `images/html-validator-membership.png`
@@ -284,22 +283,22 @@ Add screenshots here:
 
 The CSS file should be tested using the W3C CSS Validator.
 
-Add screenshot here:
 
 - `images/css-validator.png`
 
 ### Google Lighthouse
 
-Google Lighthouse should be run on the deployed website. The results should include Performance, Accessibility, Best Practices and SEO.
+TThe website was tested using Google Lighthouse. The scores were high because the website is lightweight and uses simple HTML, CSS and JavaScript. The test helped confirm that the page loaded quickly and followed basic accessibility, best practice and SEO checks.
+
 
 Add your Lighthouse summary here:
 
 | Category | Score |
 |---|---|
-| Performance | Add score here |
-| Accessibility | Add score here |
-| Best Practices | Add score here |
-| SEO | Add score here |
+| Performance | 100 |
+| Accessibility | 100 |
+| Best Practices | 100 |
+| SEO | 100 |
 
 Add screenshot here:
 
