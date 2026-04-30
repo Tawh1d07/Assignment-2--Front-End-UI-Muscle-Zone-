@@ -313,6 +313,9 @@ p {
   padding: 1rem;
   z-index: 20;
 }
+.modal[hidden] {
+  display: none;
+}
 
 .modal-content {
   background: #fff;
