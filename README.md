@@ -271,26 +271,29 @@ At the time of writing, no major unresolved bugs have been identified. This sect
 
 ### W3C HTML Validator
 
-The HTML pages should be tested using the W3C HTML Validator.
+The HTML pages were tested using the W3C HTML Validator. The homepage, membership page and contact page were checked to make sure the HTML structure was valid.
 
+#### Homepage HTML validation
 
-- `images/html-validator-home.png`
-- `images/html-validator-membership.png`
-- `images/html-validator-contact.png`
+![HTML validation result for homepage](images/html-validation-index.png)
+
+#### Membership page HTML validation
+
+![HTML validation result for membership page](images/html-validation-membership.png)
+
+#### Contact page HTML validation
+
+![HTML validation result for contact page](images/html-validation-contact.png)
 
 ### W3C CSS Validator
 
-The CSS file should be tested using the W3C CSS Validator.
+The CSS file was tested using the W3C CSS Validator. The result showed that no CSS errors were found.
 
-
-- `images/css-validator.png`
+![CSS validation result](images/css-validation.png)
 
 ### Google Lighthouse
 
-TThe website was tested using Google Lighthouse. The scores were high because the website is lightweight and uses simple HTML, CSS and JavaScript. The test helped confirm that the page loaded quickly and followed basic accessibility, best practice and SEO checks.
-
-
-Add your Lighthouse summary here:
+The website was tested using Google Lighthouse in Chrome DevTools. The scores were high because the website is lightweight and uses simple HTML, CSS and JavaScript. The test helped confirm that the page loaded quickly and followed basic accessibility, best practice and SEO checks.
 
 | Category | Score |
 |---|---|
@@ -299,10 +302,9 @@ Add your Lighthouse summary here:
 | Best Practices | 100 |
 | SEO | 100 |
 
-Add screenshot here:
+Although the Lighthouse scores were high, manual testing was still carried out because Lighthouse only checks automated criteria and does not fully confirm whether every user story works correctly.
 
-- `images/lighthouse-results.png`
-
+![Lighthouse testing results](images/lighthouse-results.png)
 ---
 
 # Version control
