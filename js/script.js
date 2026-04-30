@@ -75,7 +75,7 @@ if (enquiryForm && formMessage) {
       return;
     }
 
-    formMessage.textContent = 'Thank you. Your enquiry has been prepared successfully for this prototype.';
+    formMessage.textContent = 'Thank you. Your enquiry has been received. A member of the Muscle Zone team will contact you soon.';
     formMessage.style.color = '#176b2c';
     enquiryForm.reset();
   });
