@@ -57,12 +57,13 @@
         <input type="email" id="email" name="email" autocomplete="email" required>
 
         <label for="plan">Membership interest</label>
-        <select id="plan" name="plan">
+        <select id="plan" name="plan" required>
+          <option value="" selected disabled>Select a membership option</option>
           <option value="student">Student membership</option>
           <option value="standard">Standard membership</option>
           <option value="premium">Premium membership</option>
           <option value="personal-training">Personal training</option>
-        </select>
+</select>
 
         <label for="message">Message *</label>
         <textarea id="message" name="message" rows="5" required></textarea>
